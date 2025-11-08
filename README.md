@@ -1,7 +1,7 @@
 Arduino Nano Customizable PCB
 Overview
 
-This project is a custom PCB designed for the Arduino Nano that provides full access to all pins, with T-block (screw terminal) connections for VIN, GND, and optional external connections. It is designed for easy integration of sensors, relays, displays, and other peripherals, while avoiding direct soldering to wires.
+This project is a custom PCB designed for the Arduino Nano that provides full access to all pins, with T-block (connections for VIN, GND, and optional external connections. It is designed for easy integration of sensors, relays, displays, and other peripherals, while avoiding direct soldering to wires.
 
 Features
 
@@ -27,7 +27,7 @@ PCB Size	Customizable
 Mounting	4 × mounting holes (optional)
 Usage
 
-Insert the Arduino Nano module into the PCB header.
+Insert the Arduino Nano module into the female header pins.
 
 Connect VIN and GND via the T-block terminals.
 
@@ -35,7 +35,7 @@ Connect any sensors, relays, or peripherals to their corresponding T-block termi
 
 Upload your Arduino sketch via USB.
 
-Install the PCB in your project enclosure if desired.
+Print the PCB layout and happy fabrication.
 
 Advantages
 
